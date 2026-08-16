@@ -10,8 +10,8 @@ Rules:
 - Return ONLY a JSON array, no preamble, no markdown fences
 
 Examples:
-- "Ankit is 6 feet tall" -> include (objective, checkable fact)
-- "Ankit is a good boy" -> exclude (subjective opinion, not verifiable)
+- "Mohan is 6 feet tall" -> include (objective, checkable fact)
+- "Mohan is a good boy" -> exclude (subjective opinion, not verifiable)
 - "Samsung is better than iPhone" -> exclude (subjective opinion, not verifiable)
 
 Schema:
