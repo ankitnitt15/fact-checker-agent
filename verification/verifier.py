@@ -1,4 +1,3 @@
-# Task 5: verify_claim(claim, sample_index) -> VerificationResult
 from common.gemini_client import generate_content
 from shared.models import Claim, VerificationResult
 from shared.retry import call_with_backoff
